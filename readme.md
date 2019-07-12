@@ -2,10 +2,6 @@
 
 > - SpringBoot整合ActiveMQ之队列生产者
 > - SpringBoot整合ActiveMQ之队列生产者间隔定投
-> - SpringBoot整合ActiveMQ之队列消费者
-> - SpringBoot整合ActiveMQ之主题生产者
-> - SpringBoot整合ActiveMQ之主题消费者
-
 
 
 **搭建组织项目：**
